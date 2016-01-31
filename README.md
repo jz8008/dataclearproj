@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This repository contains:
 README.md
 CodeBook.md
@@ -20,7 +20,3 @@ the experiments data. Then it reads in the feature names and used them as variab
 
 6th, it write out the final tidy data set.
 
-=======
-# dataclearproj
-repository for data clearing class
->>>>>>> 66aa9e1d8e725eea2662e03ac2918a55c3cb06e0
